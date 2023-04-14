@@ -14,14 +14,14 @@ from datetime import datetime, timezone, timedelta
 # whisper 모델
 whisperPipe = pipeline(
     "automatic-speech-recognition",
-    model="models/whisper-medium",
+    model="openai/whisper-medium",
     chunk_length_s=30,
     device="cpu",
 )
 # RoBERTa fine-tuned 모델
 bertClassifier = pipeline(
     "text-classification",
-    model="models/roberta-fine-tuned",
+    model="nlp04/korean_sentiment_analysis_dataset3",
     device="cpu",
     top_k=None,
 )
