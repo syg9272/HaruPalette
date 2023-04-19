@@ -132,29 +132,49 @@
 
 # 프로젝트 정보
 
-### 기술 스택
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<br />
+## 기술 스택
+### Back-end
+<p align="center">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<br />
+<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=OAuth&logoColor=white">
+<img src="https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=gRPC&logoColor=white">
+</ p>
+
+### Front-end
+<p align="center">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<br />
+</ p>
+ 
+### DB
+<p align="center">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+</ p>
+
+### Dev-Ops
+<p align="center">
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</ p>
+ 
+### 협업 tool
+<p align="center">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+</ p>
 
 
 ## 구현 목록
@@ -199,17 +219,12 @@
 ## 하루팔레트 테마
 #### 저희 하루팔레트는 이름처럼 알록달록한 테마 디자인을 제공해요.
 ##### 라이트 & 다크모드와 캐릭터 별로 테마 디자인이 변경됩니다.
-<br />
-- 하루 Haru 
-<br />
+
+- 하루 Haru
 ![Group 1000002614](https://user-images.githubusercontent.com/55950992/230446896-25e20c4b-1d11-42e3-b162-6282fabcd35d.png)
-<br />
 - 고미 Gomi
-<br />
 ![Group 1000002615](https://user-images.githubusercontent.com/55950992/230448073-3ff95ca6-3e65-411c-990e-1ba88f6396d0.png)
-<br />
 - 토리 Tori
-<br />
 ![Group 1000002613](https://user-images.githubusercontent.com/55950992/230446904-69bfd799-4c8e-4a9f-9b68-196424a55a2a.png)
 
 ## 반응형 웹
